@@ -1,0 +1,2 @@
+Hello World!, this is a test file added to the staging area of a git repository.
+I'm testing to see if git add command tracks the changes in a file.
